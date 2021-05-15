@@ -29,4 +29,4 @@ cv2.bitwise_and(img_path, img_path, mask = mask)
 
 ![Screenshot (860)](https://user-images.githubusercontent.com/61947484/118351982-95e02900-b57c-11eb-9581-0940b1dd3e36.png)
 
-- For refernce I have attached my pyhton file you can refer that. 
+- For reference I have attached my pyhton file you can refer that. 
